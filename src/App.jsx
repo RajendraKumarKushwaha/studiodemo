@@ -18,7 +18,6 @@ function HomePage() {
   return (
     <>
       <HeroSection />
-      <Service />
       <AboutUs />
       <Service />
       <Portfolio />
